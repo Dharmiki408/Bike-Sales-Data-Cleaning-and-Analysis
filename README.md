@@ -44,6 +44,9 @@ This project involves cleaning and preprocessing a raw bike sales dataset using 
 
 [📥 Bike Sales in Europe on Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe)
 
+##  Live demo
+https://dharmiki408.github.io/task-1/
+
 
 ## Author
 k.dharmike 
